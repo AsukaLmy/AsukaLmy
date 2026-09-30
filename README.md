@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# LIANG MENGYU / 梁檬煜
+
+Robotics · Computer Vision · LLM Agents
+
+[Personal Archive](https://asukalmy.github.io/personweb/)
+· [Email](mailto:asukalmy@163.com)
+
+## Selected Systems
+
+### Persona
+Conversational persona simulation with retrieval-based memory.
+
+### Social Perception
+Pairwise human interaction detection for mobile service robots.
+
+### Job Search Agent
+A reviewable workflow for resume parsing, job retrieval and browser prefilling.
+
+### SSSSANDDDD
+A falling-block game built with granular cellular-automata physics.
+
+## Research
+
+- Pairwise Human-Human Interaction Detection and Recognition
+- Unified Spatiotemporal Relational Encoder
+
+## Communication
+
+- GitHub: @AsukaLmy
+- Email: asukalmy@163.com
